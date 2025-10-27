@@ -9,6 +9,8 @@ package hotel.system;
  * @author noort
  */
 public class  employee {
+  System.out.println("assel al3m");
 }
+
 
 
