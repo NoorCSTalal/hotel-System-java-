@@ -8,6 +8,7 @@ package hotel.system;
  *
  * @author noort
  */
-public class Employee {
+public class  hotelSystem {
     
 }
+
